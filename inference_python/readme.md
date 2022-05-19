@@ -1,3 +1,2 @@
-If you want to user model in python enviroment, you must install some key package
-
-- 
+- `inference_onnx.py` for audio separation using python with ONNX model.
+- `inference_torch.py` is example of using torch model, if you want to retrain the model, you can use the `Asteroid` as your toolkits.
