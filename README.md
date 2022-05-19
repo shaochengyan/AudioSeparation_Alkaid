@@ -8,7 +8,7 @@ A tool for vocal and noise separation in single or two person conversation scena
 | :---------------: | :--------------------: | :--------------------------: | --------------------------------------- |
 |    src + noise    |           1            |              1               | `src.wav` and `noise.wav`               |
 |    src1 + src2    |           2            |              0               | `src1.wav` and `src2.wav`               |
-| src1 + src2+noise |           2            |              1               | `src1.wav` and `src2.wav` 和`noise.wav` |
+| src1 + src2+noise |           2            |              1               | `src1.wav` and `src2.wav` and `noise.wav` |
 
 # Quiak start
 
