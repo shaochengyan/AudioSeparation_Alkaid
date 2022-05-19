@@ -1,0 +1,7 @@
+asteroid==0.5.2
+numpy==1.21.5
+onnxruntime==1.11.0
+pystoi==0.3.3
+PyYAML==6.0
+SoundFile==0.10.3.post1
+torch==1.10.1
