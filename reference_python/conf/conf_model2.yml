@@ -1,0 +1,14 @@
+# filterbank config
+filterbank:
+  n_filters: 128
+  kernel_size: 32
+  stride: 8
+# Network config
+masknet:
+  n_blocks: 7
+  n_repeats: 2
+  mask_act: sigmoid
+  bn_chan: 128
+  skip_chan: 128
+  hid_chan: 128
+  n_src: 2
