@@ -1,20 +1,3 @@
-文件夹说明
-==========
-
-```
-.
-├── Alkaid
-├── AlkaidProject
-├── readme.html
-├── readme.md
-└── 示例音频
-```
-
-[Alkaid](./Alkaid)文件夹
-------------------------
-
-存储最终的可执行程序，详情请阅读[Alkaid::readme](./Alkaid/readme.md)
-
 [AlkaidProject](./AlkaidProject)
 --------------------------------
 
@@ -40,11 +23,5 @@
 - [packages](./AlkaidProject/packages)存储`ONNXRuntime`库
 
   - 使用该项目是请首先使用`NuGet`安装[Microsoft.ML.OnnxRuntim 1.11.0](https://www.nuget.org/packages/Microsoft.ML.OnnxRuntime/1.11.0?_src=template)
-
-[示例音频文件夹](./示例音频)
-----------------------------
-
-存储60个示例音频
-
 
 
