@@ -19,7 +19,7 @@ git clone https://github.com/shaochengyan/AlkaidAudioSepration.git
 cd ./AlkaidAudioSepration
 ```
 
-- Use `Alkaid.exe` to process the two person conservation record in `./data/0.wav`
+- Use `Alkaid.exe` to process the two person conversation record in `./data/0.wav`
 
 ```
 .\Alkaid.exe 2 1 .\data\0.wav
