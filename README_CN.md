@@ -1,6 +1,24 @@
 # AlkaidAudioSepration
 A tool for vocal and noise separation in single or two person conversation scenarios.
 
+模型
+----
+
+基于ConvTasNet：
+
+![image-20220820161959506](README_CN.assets/image-20220820161959506.png)
+
+设计的模型：
+
+<img src="README_CN.assets/image-20220820162024302.png" alt="image-20220820162024302" style="zoom:80%;" />
+
+Windows端CPU推理模型部署
+========================
+
+<img src="README_CN.assets/image-20220820162131849.png" alt="image-20220820162131849" style="zoom:80%;" />
+
+
+
 使用说明😉
 ========
 

@@ -2,6 +2,22 @@
 
 A tool for vocal and noise separation in single or two person conversation scenarios.
 
+Model
+=====
+
+Base
+
+![image-20220820161838094](README.assets/image-20220820161838094.png)
+
+Ours
+
+<img src="README.assets/image-20220820161853107.png" alt="image-20220820161853107" style="zoom:80%;" />
+
+Deployment In Windows CPU
+=========================
+
+<img src="README.assets/image-20220820161929300.png" alt="image-20220820161929300" style="zoom:80%;" />
+
 # Usage scenarios for `Alkaid.exe`
 
 |                   | number of src: `n_src` | Presence of noise:`is_noisy` | output                                  |
